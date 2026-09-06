@@ -4,13 +4,13 @@
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a number");
         int n = sc.nextInt();
-        if (n<143)
+        if (n<10)
         {
-            System.out.println("I LOVE YOU");
+            System.out.println("HELLO DADDY");
         }
         else
         {
-            System.out.println("I LOVE  YOU MORE ");
+            System.out.println("HELLO MOM ");
         }
     }
 
